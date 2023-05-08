@@ -1,0 +1,3 @@
+python -m binance_trade_bot 
+
+1563195
